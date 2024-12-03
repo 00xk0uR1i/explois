@@ -47,12 +47,12 @@ The script will automatically install missing tools if not already present.
 ## Installation
 1. Clone or download the script:
    ```bash
-   git clone https://github.com/your-repo/ultimate-exploit-plus.git
+   git clone https://github.com/00xk0uR1i/ultimate-exploit-plus.git
    cd ultimate_exploits
    ```
 2. Make the script executable:
    ```bash
-   chmod +xultimate_exploits.sh
+   chmod +x ultimate_exploits.sh
    ```
 
 ---
