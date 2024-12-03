@@ -99,7 +99,7 @@ bash ultimate_exploits.sh
 
 ---
 ## Proof of concept :
-https://www.facebook.com/61552626911697/videos/472292038761157/
+click here
 
 <a href="https://www.facebook.com/61552626911697/videos/472292038761157/" target="_blank"><img src="https://www.pngkey.com/png/detail/801-8010034_play-icons-button-youtube-subscribe-computer-play-video.png" alt="Buy Me A Coffee" height="100" width="300"></a>
 
